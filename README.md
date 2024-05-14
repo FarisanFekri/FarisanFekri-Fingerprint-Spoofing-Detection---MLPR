@@ -1,4 +1,4 @@
-# Objective
+# Objective 
 
 The **goal** of the project is the development of a classifier to detect whether a fingerprint image represents an authentic fingerprint or a spoofed fingerprint. This will be done exploiting the most common Machine Learning tools. We will discuss how they perform for the problem we have chosen, explaining pros and cons.
 
